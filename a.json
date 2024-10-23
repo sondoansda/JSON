@@ -1,103 +1,64 @@
 {
   "tasks": [
     {
-      "name": "Task 1",
-      "detail": "Detail of Task 1",
-      "date": "2024-10-22T10:00:00",
-      "images": [
-        "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Buy groceries",
+      "detail": "Get milk, eggs, and bread from the store",
+      "date": "2024-10-23T08:30:00",
+      "completed": false
     },
     {
-      "name": "Task 2",
-      "detail": "Detail of Task 2",
-      "date": "2024-10-22T11:00:00",
-      "images": [
-       "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Morning workout",
+      "detail": "Go for a 30-minute run",
+      "date": "2024-10-24T07:00:00",
+      "completed": false
     },
     {
-      "name": "Task 3",
-      "detail": "Detail of Task 3",
-      "date": "2024-10-22T12:00:00",
-      "images": [
-       "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Finish project",
+      "detail": "Complete the final draft of the project report",
+      "date": "2024-10-25T14:00:00",
+      "completed": false
     },
     {
-      "name": "Task 4",
-      "detail": "Detail of Task 4",
-      "date": "2024-10-22T13:00:00",
-      "images": [
-       "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Call Mom",
+      "detail": "Weekly check-in call with Mom",
+      "date": "2024-10-23T18:00:00",
+      "completed": true
     },
     {
-      "name": "Task 5",
-      "detail": "Detail of Task 5",
-      "date": "2024-10-22T14:00:00",
-      "images": [
-       "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Meeting with team",
+      "detail": "Discuss project milestones and next steps",
+      "date": "2024-10-26T10:00:00",
+      "completed": false
     },
     {
-      "name": "Task 6",
-      "detail": "Detail of Task 6",
-      "date": "2024-10-22T15:00:00",
-      "images": [
-        "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Doctor's appointment",
+      "detail": "Annual check-up with Dr. Smith",
+      "date": "2024-10-27T09:00:00",
+      "completed": false
     },
     {
-      "name": "Task 7",
-      "detail": "Detail of Task 7",
-      "date": "2024-10-22T16:00:00",
-      "images": [
-        "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Submit assignment",
+      "detail": "Submit the math assignment before the deadline",
+      "date": "2024-10-28T16:00:00",
+      "completed": false
     },
     {
-      "name": "Task 8",
-      "detail": "Detail of Task 8",
-      "date": "2024-10-22T17:00:00",
-      "images": [
-        "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Pick up dry cleaning",
+      "detail": "Collect clothes from the dry cleaner",
+      "date": "2024-10-23T17:00:00",
+      "completed": true
     },
     {
-      "name": "Task 9",
-      "detail": "Detail of Task 9",
-      "date": "2024-10-22T18:00:00",
-      "images": [
-       "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"
-      ]
+      "name": "Read a book",
+      "detail": "Finish reading the last chapter of the book",
+      "date": "2024-10-24T20:00:00",
+      "completed": false
     },
     {
-      "name": "Task 10",
-      "detail": "Detail of Task 10",
-      "date": "2024-10-22T19:00:00",
-      "images": [
-        "https://images2.alphacoders.com/121/1213770.jpg",
-        "https://img.freepik.com/premium-photo/cute-ginger-cat-sitting-looking-camera-isolated-white-background_270100-2630.jpg?w=2000",
-        "https://images2.alphacoders.com/121/1213770.jpg"]
+      "name": "Plan weekend trip",
+      "detail": "Research and plan for the trip to the mountains",
+      "date": "2024-10-29T11:00:00",
+      "completed": false
     }
   ]
 }
